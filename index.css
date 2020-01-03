@@ -236,6 +236,7 @@ html {
 
 .hotel {
     color: orange;
+    text-decoration: none;
 }
 
 .foot-1:hover {
